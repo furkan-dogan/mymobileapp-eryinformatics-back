@@ -1,0 +1,7 @@
+node_modules
+.idea
+token.json
+package-lock.json
+gmail-ticket-importer.iml
+gmail-client-oauth-credentials.json
+firestore-service-account.json
